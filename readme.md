@@ -10,7 +10,7 @@ A simple and interactive Card Generator built using HTML, CSS, and JavaScript.
 
 ## 📸 Project Screenshot
 
-![Card Generator Screenshot](card-generator.png)
+![Card Generator Screenshot](ss1.png)
 
 ## 🛠️ Technologies Used
 - **HTML5** – Page structure
